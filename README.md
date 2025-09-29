@@ -38,6 +38,7 @@ Ferramentas de desenvolvimento integradas ao ambiente de aula
 📄 Licença
 
 Este repositório é de uso pessoal e educacional. Não está autorizado o uso comercial ou distribuição sem prévia autorização.
+Formador: João Jotta
 
 📘 Beginner C Exercises
 
@@ -76,3 +77,4 @@ Development tools integrated into the class environment
 📄 License
 
 This repository is for personal and educational use. Commercial use or distribution without prior permission is not allowed.
+Teacher: João Jotta 

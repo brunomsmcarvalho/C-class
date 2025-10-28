@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1759411688 source:c:\users\install\desktop\aulas c\primostds\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

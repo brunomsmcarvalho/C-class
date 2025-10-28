@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758118013 source:c:\users\install\desktop\aulas c\conversor esc euro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

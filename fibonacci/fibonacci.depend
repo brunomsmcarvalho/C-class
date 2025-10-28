@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1758720445 source:c:\users\install\desktop\aulas c\fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdbool.h>
+
